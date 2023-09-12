@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578668560675",
+    "project_id": "test-6f4a8",
+    "storage_bucket": "test-6f4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578668560675:android:66b8859b7ce534fe79cc96",
+        "android_client_info": {
+          "package_name": "com.siyeon.haniumproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578668560675-6qllcqdl5hlrj2i2vl8jkt7dr2re2i2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf4n1sxa9G3ZdIciuxq_1VoZc4g66dWuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578668560675-6qllcqdl5hlrj2i2vl8jkt7dr2re2i2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
